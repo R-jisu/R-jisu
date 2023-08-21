@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=black"/>
 </p>
 
-<p align='center'>📮 Contact 📮</p>
+<p align='center'>📮 Contact Me 📮</p>
 <div align='center'>
 
   <a href="wltn1418@gmail.com" title="바로가기(새창)" target="_blank">
