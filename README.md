@@ -13,9 +13,11 @@
   <br>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=redux&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat-square&logo=redux&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Zustand-3158B8?style=flat-square&logo=notepad++&logoColor=black"/> 
 <!--   <img src="https://img.shields.io/badge/RadixUi-161618?style=flat-square&logo=RadixUi&logoColor=white"/>  -->
 </p>
+
 
 <p align='center'>📮 Contact Me 📮</p>
 <div align='center'>
