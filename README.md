@@ -4,7 +4,6 @@
   
 </div>
 
-
 <p align='center'>♥️ Interested In ♥️</p>
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -49,7 +48,15 @@
 
 ![R-jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-jisu&show_icons=true&theme=transparent)
 
-  
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/R-jisu"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 </div>
 
 
